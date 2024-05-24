@@ -1,2 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NBLOG</title><link>https://nb1288.github.io</link><description>雜記錄-點滴生活-碎片工作</description><copyright>NBLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nb1288.github.io</link></image><lastBuildDate>Fri, 24 May 2024 08:17:49 +0000</lastBuildDate><managingEditor>NBLOG</managingEditor><ttl>60</ttl><webMaster>NBLOG</webMaster><item><title>Gmeek亮暗主题配置方式</title><link>https://nb1288.github.io/post/Gmeek-liang-an-zhu-ti-pei-zhi-fang-shi.html</link><description>这篇文章详细说一下目前Gmeek支持的亮暗主题配置方式，以及后续待改进之处。</description><guid isPermaLink="true">https://nb1288.github.io/post/Gmeek-liang-an-zhu-ti-pei-zhi-fang-shi.html</guid><pubDate>Fri, 24 May 2024 08:09:46 +0000</pubDate></item><item><title>hello world</title><link>https://nb1288.github.io/post/hello%20world.html</link><description>「Hello, World!」程式通常指一類輸出或顯示「Hello, World!」（你好，世界！）字串的電腦程式。</description><guid isPermaLink="true">https://nb1288.github.io/post/hello%20world.html</guid><pubDate>Fri, 24 May 2024 08:08:15 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>NBLOG</title><link>https://nb1288.github.io</link><description>雜記錄-點滴生活-碎片工作</description><copyright>NBLOG</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://nb1288.github.io</link></image><lastBuildDate>Fri, 24 May 2024 08:33:00 +0000</lastBuildDate><managingEditor>NBLOG</managingEditor><ttl>60</ttl><webMaster>NBLOG</webMaster><item><title> RedteaGo eSIM申請教程</title><link>https://nb1288.github.io/post/%20RedteaGo%20eSIM-shen-qing-jiao-cheng.html</link><description>今天給大家帶來一個eSIM，但是它只能用來上網，折合新戶優惠大概是7元人民幣買1G漫遊流量~&#13;
+&#13;
+好了，話不多說，走你！&#13;
+&#13;
+# 申請過程&#13;
+&#13;
+## 1.打開App Store/Google Play，搜索下載RedteaGo App&#13;
+![RedteaGo App](https://github.com/nb1288/nb1288.github.io/assets/15091534/3b47033a-c002-4f24-b098-19b21290e57d)&#13;
+## 2.打開App，點擊右下角的Me&#13;
+![app2 me](https://github.com/nb1288/nb1288.github.io/assets/15091534/ef7f66e6-ffc3-405a-8991-caaa01e140aa)&#13;
+## 3.點擊Sign up&#13;
+![3 點擊Sign up](https://github.com/nb1288/nb1288.github.io/assets/15091534/077ecf2e-4e7b-44e1-b3de-657880b4f465)&#13;
+## 4.輸入郵箱&#13;
+![4 輸入郵箱](https://github.com/nb1288/nb1288.github.io/assets/15091534/4ce1ab93-6553-4b7a-bf8a-72ad76908af2)&#13;
+## 5.創建一個密碼&#13;
+![5 創建一個密碼](https://github.com/nb1288/nb1288.github.io/assets/15091534/2712fd82-97d2-448c-9223-a50a88a76c9e)&#13;
+## 6.輸入郵箱收到的6位數認證碼&#13;
+![6 輸入郵箱收到的6位數認證碼](https://github.com/nb1288/nb1288.github.io/assets/15091534/0f3e948e-68c8-4bfb-b32e-7a4a19b84e13)&#13;
+##  7.註冊完成後點擊右下角的Me，然後點擊Promo Code&#13;
+![7 註冊完成後點擊右下角的Me，然後點擊Promo Code  ](https://github.com/nb1288/nb1288.github.io/assets/15091534/ee53c049-60be-47d0-9e30-d38ba0979a10)&#13;
+## 8.輸入NB120001，然後點擊Redeem&#13;
+![輸入NB120001，然後點擊Redeem](https://github.com/nb1288/nb1288.github.io/assets/15091534/ac9a245b-5f44-4bd7-98d4-28a350b6a98e)&#13;
+## 9.回到剛才的頁面會發現你收到了US$3.00餘額&#13;
+![9 回到剛才的頁面會發現你收到了US$3 00餘額  ](https://github.com/nb1288/nb1288.github.io/assets/15091534/304f1a49-16d2-4642-b14d-481941213451)&#13;
+## 10.App主頁搜索China，購買1GB 31天數據包即可&#13;
+![10 App主頁搜索China，購買1GB 31天數據包即可  ](https://github.com/nb1288/nb1288.github.io/assets/15091534/6fbb048c-3070-4f4c-934d-52de93d2b987)&#13;
+&#13;
+最後，你們應該知道我要幹啥了，[話不多說，上連結](https://redteago.com/)！&#13;
+&#13;
+。</description><guid isPermaLink="true">https://nb1288.github.io/post/%20RedteaGo%20eSIM-shen-qing-jiao-cheng.html</guid><pubDate>Fri, 24 May 2024 08:32:35 +0000</pubDate></item><item><title>Gmeek亮暗主题配置方式</title><link>https://nb1288.github.io/post/Gmeek-liang-an-zhu-ti-pei-zhi-fang-shi.html</link><description>这篇文章详细说一下目前Gmeek支持的亮暗主题配置方式，以及后续待改进之处。</description><guid isPermaLink="true">https://nb1288.github.io/post/Gmeek-liang-an-zhu-ti-pei-zhi-fang-shi.html</guid><pubDate>Fri, 24 May 2024 08:09:46 +0000</pubDate></item><item><title>hello world</title><link>https://nb1288.github.io/post/hello%20world.html</link><description>「Hello, World!」程式通常指一類輸出或顯示「Hello, World!」（你好，世界！）字串的電腦程式。</description><guid isPermaLink="true">https://nb1288.github.io/post/hello%20world.html</guid><pubDate>Fri, 24 May 2024 08:08:15 +0000</pubDate></item></channel></rss>
