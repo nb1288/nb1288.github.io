@@ -10,8 +10,7 @@
 ## 第二步 先到苹果网站注册账号
 首选启用科学上网软件（手机电脑均可），选择美国节点，选择代理/全局模式，使目前网络使用了美国代理。
 
-打开此网站创建您的AppleID：<https://appleid.apple.com/account#!&page=create>{:target="_blank"}
-
+打开此网站创建您的AppleID：<a href="https://appleid.apple.com/account#!&page=create" target="_blank">https://appleid.apple.com/account#!&page=create</a>
 可以是中文界面，但注意的是国家或地区，必须选择 【美国】
 
 ![apid1](https://github.com/nb1288/nb1288.github.io/assets/15091534/045c786b-cbc1-462a-a454-3e80ded0407d)
