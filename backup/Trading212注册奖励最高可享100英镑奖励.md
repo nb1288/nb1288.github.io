@@ -6,7 +6,7 @@
 
 实体卡和虚拟卡已经全面支持Apple Pay等，消费有返现，并且实时汇率消费，必拿卡片之一！
 
-英国转运地址可接收实体卡，推荐使用：[UKPost](https://client.ipostalmail.net/Signup?Referrer=REF123869)
+英国转运地址可接收实体卡，推荐使用：[UKPost](https://client.ipostalmail.net/Signup?Referrer=REF118018)
 
 活期余额更可享5.2+%年化！
 
@@ -47,3 +47,52 @@
 ![email](https://github.com/user-attachments/assets/75bfd264-14be-400b-8412-d3e9b5a1bd3d)
 
 **到了这一步基本账户就注册完成了**
+
+### 账户认证
+我习惯用电脑，这里使用电脑网页继续进行的下一步，你也可以用手机下载APP后进行后面的步骤。
+ 
+
+APP下载地址：
+
+- [AppStore(美区无法下载)  ]( https://apps.apple.com/bg/app/trading-212/id566325832)
+-[ GooglePlay](https://play.google.com/store/apps/details?id=com.avuscapital.trading212)
+
+  
+开始填写账户资料
+![填写资料](https://github.com/user-attachments/assets/9addb856-ae58-4e0b-bdf5-7475201ab543)
+
+
+国籍要选中国
+
+![国籍](https://github.com/user-attachments/assets/157938fe-7f7a-4f03-942d-29703cc72983)
+
+虽然此处不会校验英国电话号码，但还是推荐尽量用自己的号码
+![资料1](https://github.com/user-attachments/assets/3159eeeb-42eb-45c1-8259-c1769236e578)
+
+注意此处的地址，请务必使用能提供地址证明的英国地址，后面有概率会要地址证明。
+我是提供了我的英国wise对账单（statement）当作地址证明
+![地址](https://github.com/user-attachments/assets/18816a4f-1eca-4c7d-97c5-afc0394bed21)
+
+关于资产与风险调查问卷
+按照自己实际情况填写
+
+![问卷1](https://github.com/user-attachments/assets/d1d7f2f7-c1dd-45c3-bf22-298276b08335)
+![问卷2](https://github.com/user-attachments/assets/32ac75dc-52b1-4f35-99c9-63ae3b00753f)
+![问卷3](https://github.com/user-attachments/assets/805840df-488d-480e-a760-4666dc5581e2)
+
+关于投资经验调查问卷
+
+![投资问卷1](https://github.com/user-attachments/assets/cd59ae9d-95b6-4dfa-b27c-3d9c4b85b2fd)
+![投资问卷2](https://github.com/user-attachments/assets/201e4d00-0a3b-4404-8862-d783baf928ac)
+
+身份验证
+这一步需要提交护照（身份证/驾照）、拍摄人脸
+请使用手机APP完成
+
+![护照](https://github.com/user-attachments/assets/e6b39a4a-4f34-4fd3-a275-aad137531546)
+
+![地址证明](https://github.com/user-attachments/assets/14595800-942d-4fe2-99f6-b18cdbd508ea)
+
+![w8](https://github.com/user-attachments/assets/c7d727c2-34b3-428d-9799-e21e72d5895d)
+
+剩下的就是等待认证通过
