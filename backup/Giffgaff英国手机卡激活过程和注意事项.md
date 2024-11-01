@@ -93,3 +93,5 @@ Giffgaff是一家总部位于英国的移动电话公司。作为一家移动虚
 
 你也可以在Giffgaff官网订购：[https://www.giffgaff.com/](https://www.giffgaff.com/orders/affiliate/dy201872_1725143102271)
  
+有任何疑问，可加我交流
+![whatsapp](https://github.com/user-attachments/assets/dc5c7a78-b4dc-4fda-805a-796418a7090f)
