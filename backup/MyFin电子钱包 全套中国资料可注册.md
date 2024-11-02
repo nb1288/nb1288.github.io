@@ -23,14 +23,16 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 
 主要区别就是账户币种数量限制以及欧元SEPA转账手续费，有兴趣的小伙伴可以了解下。
 
-### 注册开户
+## 注册开户
 进入APP Store下载MyFin：
 ![image](https://github.com/user-attachments/assets/63b39ae8-6350-4697-8f1c-4f60ad6263d2)
 
 点击SINGUP注册，使用小白的邀请码 **JI00LWD9**  开户后消费任意金额即可获赠5欧元奖励。
 +86手机号无法接收验证码，建议[点击这里向博主索取GiffGaff手机卡](/post/Giffgaff-ying-guo-shou-ji-qia-ji-huo-guo-cheng-he-zhu-yi-shi-xiang.html)
  
-![img](https://github.com/user-attachments/assets/486892df-dab4-419e-8012-337379508413)
+ 
+![08413](https://github.com/user-attachments/assets/29a082e8-b39b-464b-b856-3faf9f986a85)
+
 
 
 接下来，国家选China，证件选passport，币种选欧元：
@@ -56,7 +58,7 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 
  到此，注册开户就完成了。
 
-### 具体使用
+## 具体使用
 **欧元IBAN入金(Kraken通用)**
 小白这边分别通过Kraken交易所和[iFAST银行](https://nb.asy.cc/post/iFAST%20Global%20Bank%20-yi-feng-huan-qiu-yin-xing-kai-hu-jing-yan-fen-xiang-%20-ti-gong-ying-bang-yin-xing-zhang-hu.html)国际汇款入金欧元，均成功收到。
 
@@ -72,7 +74,7 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 
 ![image](https://github.com/user-attachments/assets/6f739570-8f84-4054-9104-95f056cbc185)
 
-### iFAST国际汇款入金
+## iFAST国际汇款入金
 关于这个问题，有些地方还是比较令人困惑的，有空我们可以专门写一篇文章谈一谈，这里大概说说。首先，我们要知道iFAST是注册在英国的银行，他的主货币是英镑。其次，小白问过客服，客服明确表示，iFAST目前不支持SEPA转账（虽然英国在退出欧盟后仍然留在SEPA区）。
 
 所以理论上来说，在iFAST尽进行的所有国际转账都都是通过SWIFT发出的（国际电汇那手续费，用不起……），但是实际情况有所不同，因为iFAST有的国际转账（视国家而定）实际没有走SWIFT，而是通过第三方转账工具EzRemit实现本地汇款。
@@ -99,7 +101,7 @@ MyFin支持欧元SEPA（隔日达，0.28欧元手续费）和SEPA Instant（秒�
 
 ![image](https://github.com/user-attachments/assets/23b01e4a-459f-4234-8856-611b56008a3f)
 
-### 小结
+## 小结
 使用下来，体验还是不错的，重度使用的可以尝试他家会员订阅计划，可以获得多币种账户，多张虚拟卡实体卡，以及更低的转账手续费。有一个比较坑的是，MyFin不能换设备登录，需要更换手机的，需要联系客服，这是传说中极致安全吗……
 
 最后，使用我的邀请码  **JI00LWD9**  开户后消费任意金额即可获赠5欧元奖励，哈哈。
