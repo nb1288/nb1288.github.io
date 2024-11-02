@@ -1,7 +1,7 @@
 ## 保加利亚FIBank旗下MyFin电子钱包 个人欧洲IBAN 虚拟卡可激活Wise 全套中国资料可注册 开户可白嫖5欧元 N26平替 
 
 ### 介绍
-MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款数字钱包，其虚拟卡或者实体卡支持激活Wise，支持中国护照注册，KYC过程简单方便，使用小白的邀请码开户后消费任意金额即可获赠5欧元奖励。开户成功后可获得一个FIBank的个人欧洲同名IBAN，由于保加利亚隶属于欧洲经济区（EEA）和单一欧元支付区（SEPA），我们可以很方便的进行SEPA欧元IBAN转账。如果你的N26视频见证开户一直过不了，MyFin也是一个不错的选择。
+MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款数字钱包，其虚拟卡或者实体卡[支持激活Wise](/post/2024-zui-xin-ban-WISE-kai-hu-jiao-cheng-yu-xu-ni-qia-shen-qing-%20.html)，支持中国护照注册，KYC过程简单方便，使用小白的邀请码开户后消费任意金额即可获赠5欧元奖励。开户成功后可获得一个FIBank的个人欧洲同名IBAN，由于保加利亚隶属于欧洲经济区（EEA）和单一欧元支付区（SEPA），我们可以很方便的进行SEPA欧元IBAN转账。如果你的N26视频见证开户一直过不了，MyFin也是一个不错的选择。
 ![image](https://github.com/user-attachments/assets/e6fa5961-072a-40fc-a07f-52c31958dfc9)
 
 ### 优势和福利
@@ -11,7 +11,7 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 3. 可从Kraken交易所提现欧元（SEPA）到MyFin钱包。
 4. 可绑定国内支付宝微信消费（有的博主开出的卡无法绑定，小白前几天开出的卡实测是可以绑定并消费的）。
 5. 使用小白的邀请码 **JI00LWD9** 开户后消费任意金额即可获赠5欧元奖励。
-6. 可使用N26欧元IBAN入金（次日到账），可使用N26欧元虚拟卡入金（秒到）。
+6. 可使用WISE、[N26欧元IBAN](/post/N26-ou-zhou-shu-zi-yin-xing-yao-qing-fu-li-120-ou-yuan-jiang-li.html)入金（次日到账），也可使用N26欧元虚拟卡入金（秒到）。
 
 ### 套餐详情
 目前注册开户和账户维护都是免费的，其他收费标准如下（1BGN约等于4CNY）：
@@ -28,7 +28,7 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 ![image](https://github.com/user-attachments/assets/63b39ae8-6350-4697-8f1c-4f60ad6263d2)
 
 点击SINGUP注册，使用小白的邀请码 **JI00LWD9**  开户后消费任意金额即可获赠5欧元奖励。
-+86手机号无法接收验证码，建议[点击这里向博主索取GiffGaff手机卡](/post/Giffgaff-ying-guo-shou-ji-qia-ji-huo-guo-cheng-he-zhu-yi-shi-xiang.html)
++86手机号无法接收验证码，建议[点击这里向博主索取GiffGaff英国+44手机卡](/post/Giffgaff-ying-guo-shou-ji-qia-ji-huo-guo-cheng-he-zhu-yi-shi-xiang.html)
  
  
 ![08413](https://github.com/user-attachments/assets/29a082e8-b39b-464b-b856-3faf9f986a85)
