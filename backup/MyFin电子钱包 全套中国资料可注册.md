@@ -24,16 +24,13 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 主要区别就是账户币种数量限制以及欧元SEPA转账手续费，有兴趣的小伙伴可以了解下。
 
 ## 注册开户
-进入APP Store下载MyFin：
+ 下载MyFin：https://ref.myfin.bg/referral/invitation-link 点击这个链接下载 App
 ![image](https://github.com/user-attachments/assets/63b39ae8-6350-4697-8f1c-4f60ad6263d2)
 
 点击SINGUP注册，使用小白的邀请码 **JI00LWD9**  开户后消费任意金额即可获赠5欧元奖励。
 +86手机号无法接收验证码，建议[点击这里向博主索取GiffGaff英国+44手机卡](/post/Giffgaff-ying-guo-shou-ji-qia-ji-huo-guo-cheng-he-zhu-yi-shi-xiang.html)
  
- 
-![08413](https://github.com/user-attachments/assets/29a082e8-b39b-464b-b856-3faf9f986a85)
-
-
+![08413 (1)](https://github.com/user-attachments/assets/e4ba21c7-6373-48c1-9f76-d213f9e2365a) 
 
 接下来，国家选China，证件选passport，币种选欧元：
 
