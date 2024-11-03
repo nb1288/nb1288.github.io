@@ -6,10 +6,8 @@ Giffgaff是一家总部位于英国的移动电话公司。作为一家移动虚
 主要是用来注册国外的服务，用于短信验证码的接收，基本不会用到打电话和上网，偶尔可能会有发送短信的需要。
  
  ### 领取Giffgaff  ：
-微信添加 **openUK**   免费索取（不包邮费）
+微信添加 **KK8848778**   免费索取（不包邮费）
  
-![image](https://github.com/user-attachments/assets/cccf6f26-a716-45f6-bc1f-8c14105b82e4)
-
 你也可以在Giffgaff官网订购：[https://www.giffgaff.com/](https://www.giffgaff.com/orders/affiliate/dy201872_1725143102271)
  从英国寄往中国内地约一个月左右。免费平邮寄送。
 
