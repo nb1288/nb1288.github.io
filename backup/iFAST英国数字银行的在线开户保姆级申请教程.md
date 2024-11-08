@@ -3,9 +3,9 @@ iFAST提供英国IBAN账号，受FCA监管的英国数字银行，受85,000 英�
 
 无户无管理费和无最低存款要求，无年费，可出入金港美股券商，直接OCBC->wise->iFast>盈透证券免费出入金。用英镑和wise互转0损耗。
 
-虚拟卡wise的办理和激活：[2024最新版WISE开户教程与虚拟卡申请](https://nb.asy.cc/post/2024-zui-xin-ban-WISE-kai-hu-jiao-cheng-yu-xu-ni-qia-shen-qing.html)
+虚拟卡wise的办理和激活：[2024最新版WISE开户教程与虚拟卡申请](https://nb1288.github.io/post/1.html)
 
-在大陆就能在线办理的OCBC实体银行卡：[超详细的新加坡华侨银行（OCBC）开户指南与借记卡申请](https://nb.asy.cc/post/chao-xiang-xi-de-xin-jia-po-hua-qiao-yin-xing-%EF%BC%88OCBC%EF%BC%89-kai-hu-zhi-nan-yu-jie-ji-qia-shen-qing.html)
+在大陆就能在线办理的OCBC实体银行卡：[超详细的新加坡华侨银行（OCBC）开户指南与借记卡申请](https://nb1288.github.io/post/5.html)
 
 ### 申请iFAST
 在申请之前，您需要准备：
