@@ -57,7 +57,7 @@ MyFin是保加利亚第三大银行FIBank（第一投资银行）推出的一款
 
 ## 具体使用
 **欧元IBAN入金(Kraken通用)**
-小白这边分别通过Kraken交易所和[iFAST银行](https://nb.asy.cc/post/iFAST%20Global%20Bank%20-yi-feng-huan-qiu-yin-xing-kai-hu-jing-yan-fen-xiang-%20-ti-gong-ying-bang-yin-xing-zhang-hu.html)国际汇款入金欧元，均成功收到。
+小白这边分别通过Kraken交易所和[iFAST银行](/post/iFAST-ying-guo-shu-zi-yin-xing-de-zai-xian-kai-hu-bao-mu-ji-shen-qing-jiao-cheng.html)国际汇款入金欧元，均成功收到。
 
 ![image](https://github.com/user-attachments/assets/79662bdf-2f29-49f8-9c8a-0a07d43aac07)
 
