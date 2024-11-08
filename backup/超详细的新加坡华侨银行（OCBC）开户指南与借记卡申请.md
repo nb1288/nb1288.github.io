@@ -9,7 +9,7 @@
 - 可购买港股、美股 
 - 可以申请借记卡，用于网上消费和全球消费
 - 借记卡支持Apple Pay/Google Pay移动支付
-- OCBC给[WSIE](https://nb.asy.cc/post/2024-zui-xin-ban-%EF%BC%8CWISE-kai-hu-jiao-cheng-yu-xu-ni-qia-shen-qing.html)入金秒到账
+- OCBC给[WSIE](https://nb1288.github.io/post/1.html)入金秒到账
 
 如果您没有上述需求或者不明白这个账户的用途，我建议您不要申请。如果您有上述需求或明白此账户用途，请继续阅读。
 
@@ -48,7 +48,7 @@
 
 审核通过后，默认给您开通了2个新加坡银行账户，分别是：
 
-1. Statement Savings Account（STS）
+1. Statement Savings Account（SSA）
 2. Global Savings Account（GSA）
 
 这2个账户可用来收款或者对外转账。
