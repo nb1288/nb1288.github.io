@@ -67,7 +67,8 @@ APP下载地址：
 
 ![国籍](https://github.com/user-attachments/assets/157938fe-7f7a-4f03-942d-29703cc72983)
 
-虽然此处不会校验英国电话号码，但还是推荐尽量用自己的号码
+虽然此处不会校验英国电话号码，但还是推荐尽量用自己的号码.
+[如果需要英国电话卡，可向我们小助理索取](https://nb1288.github.io/post/13.html)
 ![资料1](https://github.com/user-attachments/assets/3159eeeb-42eb-45c1-8259-c1769236e578)
 
 注意此处的地址，请务必使用能提供地址证明的英国地址，后面有概率会要地址证明。
