@@ -30,22 +30,22 @@
 ### 注册与激活
 **打开首页，点击开户（Open Account）**
  
-![开户](https://github.com/user-attachments/assets/3befd367-ee81-4e25-ae34-e01f5e38e27a)
+![开户](https://static.66yun.cn/trading212/212-1.png)
 
 **Country of Residence：请务必选择英国**
-![国家](https://github.com/user-attachments/assets/c6e92f60-9b2e-4015-988a-4519c94f4eed)
+![国家](https://static.66yun.cn/trading212/212-2.png)
 
 **选择开通的账户（股票交易即可）**
  
-![投资](https://github.com/user-attachments/assets/7c5be8da-8587-4b03-9465-b33034e1b9aa)
+![投资](https://static.66yun.cn/trading212/212-3.png)
 
 **填写注册的邮箱和密码**
-![邮箱](https://github.com/user-attachments/assets/97724718-90b4-4b00-bd2b-d982c68bbd75)
-![allow](https://github.com/user-attachments/assets/2345f794-adba-422e-9fca-3cd8c6a61f90)
+![邮箱](https://static.66yun.cn/trading212/212-4.png)
+![allow](https://static.66yun.cn/trading212/212-5.png)
 
 **此时收到一封验证邮件：**
 
-![email](https://github.com/user-attachments/assets/75bfd264-14be-400b-8412-d3e9b5a1bd3d)
+![email](https://static.66yun.cn/trading212/212-6.png)
 
 **到了这一步基本账户就注册完成了**
 
@@ -60,16 +60,16 @@ APP下载地址：
 
   
 开始填写账户资料
-![填写资料](https://github.com/user-attachments/assets/9addb856-ae58-4e0b-bdf5-7475201ab543)
+![填写资料](https://static.66yun.cn/trading212/212-7.png)
 
 
 国籍要选中国
 
-![国籍](https://github.com/user-attachments/assets/157938fe-7f7a-4f03-942d-29703cc72983)
+![国籍](https://static.66yun.cn/trading212/212-8.png)
 
 虽然此处不会校验英国电话号码，但还是推荐尽量用自己的号码.
 [如果需要英国电话卡，可向我们小助理索取](https://nb1288.github.io/post/13.html)
-![资料1](https://github.com/user-attachments/assets/3159eeeb-42eb-45c1-8259-c1769236e578)
+![资料1](https://static.66yun.cn/trading212/212-9.png)
 
 注意此处的地址，请务必使用能提供地址证明的英国地址，后面有概率会要地址证明。
 我是提供了我的英国wise对账单（statement）当作地址证明
