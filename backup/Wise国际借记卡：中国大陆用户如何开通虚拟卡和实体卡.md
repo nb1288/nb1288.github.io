@@ -1,7 +1,7 @@
 **与现在市面上其他光怪陆离的虚拟银行卡相比，Wise国际借记卡算得上一股清流了。由于持卡成本较低，如果有购买和订阅国外App或服务的需求，不妨持有一张甚至5张。**
 
 不过，就像大多数金融服务一样，中国大陆用户用起来并不友好，虽然可以开通多个外币账户，有自己的iBan和Swift/Bic代码。但Wise向其他国家提供的虚拟卡和实体卡服务，却暂未向中国大陆用户开放。
-![image](https://github.com/user-attachments/assets/064b12d2-b5ed-4cb5-ab64-e827d294aa55)
+![image](https://static.66yun.cn/wise/wise-1.png)
 
 ### wise虚拟信用卡
 **不过现在已有了解决办法：**先以真实的中国大陆身份资料注册Wise，账户入金验证激活后，再将居住地资料改为支持申请银行卡的国家即可。
@@ -11,7 +11,7 @@
 [全部国家：看这里](https://wise.com/zh-hk/help/articles/2968915/%E6%88%91%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%93%AA%E4%BA%9B%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80%E7%94%B3%E8%AB%8Bwise%E5%8D%A1?origin=&topicId=&subtopicId=)
 
 这种方法在之前是不可行的，一则中国大陆用户无法更改居住地，二则更改其他居住地也会被要求提供真实的居住证明。但从2023年开始Wise开放了这个限制：在2023年年中时，可以通过Wise App自由更改申请；到了2023年末，我在App端更改居住地后无法申请，但在网页端申请成功。
-![image](https://github.com/user-attachments/assets/f76e2c0b-f3ef-4d0e-bf4c-739bc5064278)
+![image](https://static.66yun.cn/wise/wise-2.png)
 
 ### wise虚拟信用卡
 
@@ -23,7 +23,7 @@
 
 ### 1、更改资料
 点击右上角头像，点击“资料”
-![image](https://github.com/user-attachments/assets/de1e5a4f-986f-49e9-9810-5203b11efff5)
+![image](https://static.66yun.cn/wise/wise-3.png)
 
  
 ### 2、更改国家和地址
@@ -34,15 +34,15 @@
 ### 3、申请银行卡
 点击“申请一张新卡”，按流程走完即可。
  
-![image](https://github.com/user-attachments/assets/54c3215e-e3e6-47eb-a8c8-6a70cfcc5b80)
+![image](https://static.66yun.cn/wise/wise-4.png)
 
 - 虚拟卡即刻就可以开通，如果是实体卡，可以留意以下几点：
 
 实体卡分为普通卡和环保卡，普通卡2.5英镑，环保卡4.5英镑。其他国家汇率有差别，但价格差别不大。
-![image](https://github.com/user-attachments/assets/b768232c-c787-4262-879a-13decf9f446c)
+![image](https://static.66yun.cn/wise/wise-5.png)
 
 - 邮寄方式分为平邮和快递：平邮免费，快递一般是DHL。平邮到国内小地方容易丢件，大城市应该没事，如果不放心建议选快递。因为我走的是转运，如果直邮价格过高，可以考虑转运。
-![image](https://github.com/user-attachments/assets/a6c8cc4b-d9d7-49b9-b492-f91a924f7230)
+![image](https://static.66yun.cn/wise/wise-6.png)
 
  
 
@@ -55,4 +55,4 @@
 ### Wise：[注册链接](https://wise.com/invite/iphc/jianjiangj)
 
 ### 有任何疑问，可加我交流
-![whatsapp](https://github.com/user-attachments/assets/dc5c7a78-b4dc-4fda-805a-796418a7090f)
+![whatsapp](https://static.66yun.cn/whatsapp.png)
