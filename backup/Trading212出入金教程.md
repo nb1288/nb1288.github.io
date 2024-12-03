@@ -16,9 +16,9 @@
 #### 入金
 **实测可以用ifast和wise的UK银行账户出入金**
 
-- wise开户教程---[2024最新版WISE开户教程与虚拟卡申请](https://nb.asy.cc/post/2024-zui-xin-ban-WISE-kai-hu-jiao-cheng-yu-xu-ni-qia-shen-qing.html)
+- wise开户教程---[2024最新版WISE开户教程与虚拟卡申请](https://kk.66yun.cn/post/10.html)
 
--  ifast开户教程-- [iFAST英国数字银行的在线开户保姆级申请教程](https://nb.asy.cc/post/iFAST-ying-guo-shu-zi-yin-xing-de-zai-xian-kai-hu-bao-mu-ji-shen-qing-jiao-cheng---xin.html)
+-  ifast开户教程-- [iFAST英国数字银行的在线开户保姆级申请教程](https://kk.66yun.cn/post/8.html)
 
 这里用ifast演示一下（入金1英镑就够了）：
 ![入金1](https://github.com/user-attachments/assets/8752af24-3918-4750-b206-491bf9278ba8)
