@@ -23,10 +23,10 @@
 ![image](https://static.66yun.cn/redteago/6.png)
 
 ##  7.註冊完成後點擊右下角的Me，然後點擊Promo Code
-![7 註冊完成後點擊右下角的Me，然後點擊Promo Code  ](https://static.66yun.cn/redteago/7.png)
+![Promo Code  ](https://static.66yun.cn/redteago/7.png)
 
 ## 8.輸入NB120001，然後點擊Redeem
-![輸入NB120001，然後點擊Redeem](https://static.66yun.cn/redteago/8.png)
+![輸入NB120001，Redeem](https://static.66yun.cn/redteago/8.png)
 
 ## 9.回到剛才的頁面會發現你收到了US$3.00餘額
 ![9 回到剛才的頁面會發現你收到了US$3 00餘額  ](https://static.66yun.cn/redteago/9.png)
