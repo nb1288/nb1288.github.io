@@ -23,16 +23,16 @@
 ![image](https://static.66yun.cn/redteago/6.png)
 
 ##  7.註冊完成後點擊右下角的Me，然後點擊Promo Code
-![image](https://static.66yun.cn/redteago/7.png)
+![image](https://static.66yun.cn/redteago/7.jpg)
 
 ## 8.輸入NB120001，然後點擊Redeem
-![image](https://static.66yun.cn/redteago/8.png)
+![image](https://static.66yun.cn/redteago/8.jpg)
 
 ## 9.回到剛才的頁面會發現你收到了US$3.00餘額
-![image](https://static.66yun.cn/redteago/9.png)
+![image](https://static.66yun.cn/redteago/9.jpg)
 
 ## 10.App主頁搜索China，購買1GB 31天數據包即可
-![image](https://static.66yun.cn/redteago/10.png)
+![image](https://static.66yun.cn/redteago/10.jpg)
 
 最後，你們應該知道我要幹啥了，[話不多說，上連結](https://redteago.com/)！
  
