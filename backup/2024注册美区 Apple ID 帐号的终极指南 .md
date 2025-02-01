@@ -13,8 +13,8 @@
 打开此网站创建您的AppleID：<a href="https://appleid.apple.com/account#!&page=create" target="_blank">https://appleid.apple.com/account#!&page=create</a>
 可以是中文界面，但注意的是国家或地区，必须选择 【美国】
 
-![apid1](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/045c786b-cbc1-462a-a454-3e80ded0407d)
-
+ 
+![Image](https://github.com/user-attachments/assets/9ebc9e84-8035-4032-bf3e-715a6f464605)
 
 按要求填写完整，这步骤就不需要多讲，一步步填写，自己务必记住就行，找回密码或者解锁账号会用到这些问题答案。
 
@@ -25,41 +25,36 @@
 ## 第三步 苹果手机App Store登陆
 
 手机必须是代理模式，节点选择美国。首先退出原来的账户，登陆新注册的账户。
-![apid2](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/86399496-1776-41d6-827e-5ed553fd5344)
-
+ 
+![Image](https://github.com/user-attachments/assets/5a580d1c-28f5-4883-8cb6-f98ce3c00d4e)
 
 会出现提示按提示选择Review，地区仍然是需选择美国United States，并操作同意下一步。
 
-![apid3](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/10012817-4c39-481a-8385-f7d08a5dc115)
-
+ 
+![Image](https://github.com/user-attachments/assets/fbdbd8ab-40f1-40f3-8168-fde74fafc9ae)
 
 这个是关键的一步，下面会让你选择付款方式，若没有出现None，那么就你的手机网络不是美国IP，重新选择代理美国IP后，然后付款方式选择None。
 
-![apid4](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/aae5f50c-e4bb-45d6-8427-9e0561cb80e8)
-
+![Image](https://github.com/user-attachments/assets/08e0a783-fc48-46e0-864d-e5504a056a87)
 
 对于Shadowrocket小火箭设置里面 【全局路由】 必须选择 【代理】；V2rayN软件的话代理选择全局模式。
 
-![apid5](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/660e4140-b0a0-492e-a32b-b01b29adbf1f)
+![Image](https://github.com/user-attachments/assets/e0b35306-6723-4b36-9147-101bbb45a715)
 
+填写美国人信息，这个建议**谷歌**搜索【美国个人信息生成】关键字获取。
 
-填写美国人信息，这个建议谷歌搜索【美国个人信息生成】关键字获取。
-
-![apid6](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/9738b936-85b4-457c-ba7c-51c9073b798b)
-
+![Image](https://github.com/user-attachments/assets/daeec427-87cc-491e-b9a0-ecee8b1cc33b)
 
 需要注意的是，美区 App Store 中的应用是需要交税的，如果你希望以较低的价格购买一些付费 app，建议在地址处填入税率较低的州，比如 Oregon（俄勒冈州）、Alaska（阿拉斯加州）、Delaware（特拉华州）、Montana（蒙大拿州）、New Hampshire（新罕布什尔州）等。
 
-![apid7](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/088ffdba-6a7b-4be3-96e5-c5d25788026e)
-
+![Image](https://github.com/user-attachments/assets/832597c4-b918-400e-919f-e3278ff2c88f)
 
 填写后完成后，你的美区Apple ID账号就已注册完成了！
 
 ## 其他 如何在App Store购买苹果付费APP
 你需要购买礼品卡，这个网上到处都可以购买的到，步骤如下：
 
-![apid8](https://github.com/nb1288/nb1288.github.io.back/assets/15091534/84d1c5de-3dee-490c-9b3d-038913357c63)
-
+![Image](https://github.com/user-attachments/assets/e44c9570-a5e2-49fc-932f-8d86e7f07a24)
 
 获取后登陆账号信息输入即可，但是我这边测试了几次对于新号礼品卡冲进去后，苹果ID容易被苹果公司锁住，建议养号一段时间在充值购买，并且不要频繁使用不同ip地址！自己使用的话你可以开启双重认证，这样被苹果锁的概率就很低。
 
